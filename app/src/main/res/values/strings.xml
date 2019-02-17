@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Button-Counter-Standerwick</string>
+    <string name="app_name">Button-counter-Standerwick</string>
+    <string name="Count"></string>
 </resources>
